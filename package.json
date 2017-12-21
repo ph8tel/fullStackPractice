@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ph8tel/fullStackPractice#readme",
   "dependencies": {
     "ejs": "^2.5.7",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0"
   }
 }
