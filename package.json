@@ -1,0 +1,22 @@
+{
+  "name": "fullstacktest",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph8tel/fullStackPractice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Joe Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ph8tel/fullStackPractice/issues"
+  },
+  "homepage": "https://github.com/ph8tel/fullStackPractice#readme"
+}
